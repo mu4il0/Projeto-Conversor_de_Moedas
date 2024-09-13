@@ -27,7 +27,7 @@ O JavaScript é responsável pela lógica de conversão. Ele atualiza os valores
 <h3>Função de Conversão: </h3> Usa Intl.NumberFormat para formatar os valores de acordo com o formato monetário de cada país (BRL, USD, EUR).
 <h3>Atualização Dinâmica: </h3> A moeda de destino e sua respectiva imagem são atualizadas conforme o usuário seleciona diferentes opções no campo de moeda.
 
-<img src="assets/Previsao-Tempo.png">
+<img src="assets/site.png">
 <p>Minhas redes sociais:</p>
 <a href="https://www.linkedin.com/in/murilo-tavares-7b3bbb304/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-logo"></a>
 <a href="https://www.instagram.com/murilo__tt/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram-logo"></a>
